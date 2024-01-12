@@ -1,0 +1,8 @@
+.personalInfo {
+  display: flex;
+  flex-direction: column;
+}
+
+.personalInfo > * {
+  margin: 10px;
+}
